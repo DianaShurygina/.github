@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://shuriginadiana.info/sitemap.xml
